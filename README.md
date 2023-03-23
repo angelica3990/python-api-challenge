@@ -14,9 +14,13 @@ Requirement 1: Create Plots to Showcase the Relationship Between Weather Variabl
 
 To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 - Latitude vs. Temperature
+![image](https://user-images.githubusercontent.com/62813833/227219774-0673961f-9011-4348-bf40-80f9dd4e808e.png)
 - Latitude vs. Humidity
+![image](https://user-images.githubusercontent.com/62813833/227219856-2818d13d-6267-496a-aff6-5f6567aab314.png)
 - Latitude vs. Cloudiness
+![image](https://user-images.githubusercontent.com/62813833/227219960-42f82ed6-f687-46f1-a344-bb089b326f7c.png)
 - Latitude vs. Wind Speed
+![image](https://user-images.githubusercontent.com/62813833/227220029-62ba9495-605b-4fe9-9a44-6ffb54688340.png)
 
 Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. 
@@ -31,6 +35,7 @@ You should create the following plots:
 - Southern Hemisphere: Temperature vs. Latitude
 - Northern Hemisphere: Humidity vs. Latitude
 - Southern Hemisphere: Humidity vs. Latitude
+![image](https://user-images.githubusercontent.com/62813833/227221259-98d30616-f133-4c96-a319-f972e64a06e0.png)
 - Northern Hemisphere: Cloudiness vs. Latitude
 - Southern Hemisphere: Cloudiness vs. Latitude
 - Northern Hemisphere: Wind Speed vs. Latitude

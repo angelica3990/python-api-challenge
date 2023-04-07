@@ -14,13 +14,13 @@ Requirement 1: Create Plots to Showcase the Relationship Between Weather Variabl
 
 To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 - Latitude vs. Temperature
-![image](https://user-images.githubusercontent.com/62813833/227219774-0673961f-9011-4348-bf40-80f9dd4e808e.png)
+![image](https://user-images.githubusercontent.com/62813833/230535709-7764fa59-10b8-4268-b79b-04692304ddc0.png)
 - Latitude vs. Humidity
-![image](https://user-images.githubusercontent.com/62813833/227219856-2818d13d-6267-496a-aff6-5f6567aab314.png)
+![image](https://user-images.githubusercontent.com/62813833/230535720-a44da9f5-378b-467a-9c31-bc0d3e2aa7e6.png)
 - Latitude vs. Cloudiness
-![image](https://user-images.githubusercontent.com/62813833/227219960-42f82ed6-f687-46f1-a344-bb089b326f7c.png)
+![image](https://user-images.githubusercontent.com/62813833/230535735-d6a9493e-e501-4746-b438-b382c281e77a.png)
 - Latitude vs. Wind Speed
-![image](https://user-images.githubusercontent.com/62813833/227220029-62ba9495-605b-4fe9-9a44-6ffb54688340.png)
+![image](https://user-images.githubusercontent.com/62813833/230535748-39950be7-3308-454d-b818-a99d65bdf303.png)
 
 Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. 
@@ -32,18 +32,26 @@ You may find it helpful to define a function in order to create the linear regre
 Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values.
 You should create the following plots:
 - Northern Hemisphere: Temperature vs. Latitude
+![image](https://user-images.githubusercontent.com/62813833/230535793-4f212b99-9180-4125-a522-786e5ded414d.png)
 - Southern Hemisphere: Temperature vs. Latitude
-
+![image](https://user-images.githubusercontent.com/62813833/230535814-c6d0a577-bc44-48de-b261-d1a2aa55b0c2.png)
 
 - Northern Hemisphere: Humidity vs. Latitude
+![image](https://user-images.githubusercontent.com/62813833/230535850-8727acb5-64d4-471c-9b2a-e302f80f3d10.png)
 - Southern Hemisphere: Humidity vs. Latitude
+![image](https://user-images.githubusercontent.com/62813833/230535872-8610a355-40e5-414d-be9f-8243a5daf1a4.png)
 
 
 - Northern Hemisphere: Cloudiness vs. Latitude
+![image](https://user-images.githubusercontent.com/62813833/230535902-3904993f-9af2-4dea-9614-fbaa1a2c0629.png)
 - Southern Hemisphere: Cloudiness vs. Latitude
-- 
+![image](https://user-images.githubusercontent.com/62813833/230535943-0b04adea-cde7-4270-95da-41f1e0718938.png)
+
 - Northern Hemisphere: Wind Speed vs. Latitude
+![image](https://user-images.githubusercontent.com/62813833/230536241-cb200643-5b5c-4d20-8134-b669de3e352f.png)
 - Southern Hemisphere: Wind Speed vs. Latitude
+![image](https://user-images.githubusercontent.com/62813833/230536211-b26f4df9-cb11-4555-be75-c13593e18cae.png)
+
 
 #### Part 2: VacationPy
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.

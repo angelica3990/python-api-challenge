@@ -59,6 +59,8 @@ The code needed to import the required libraries and load the CSV file with the 
 Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
 To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the following steps:
 Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
+
+
 ![image](https://user-images.githubusercontent.com/62813833/230537589-3c511174-0105-4e8c-8ec1-3e8f19be6011.png)
 
 

@@ -33,11 +33,15 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 You should create the following plots:
 - Northern Hemisphere: Temperature vs. Latitude
 - Southern Hemisphere: Temperature vs. Latitude
+
+
 - Northern Hemisphere: Humidity vs. Latitude
 - Southern Hemisphere: Humidity vs. Latitude
-![image](https://user-images.githubusercontent.com/62813833/227221259-98d30616-f133-4c96-a319-f972e64a06e0.png)
+
+
 - Northern Hemisphere: Cloudiness vs. Latitude
 - Southern Hemisphere: Cloudiness vs. Latitude
+- 
 - Northern Hemisphere: Wind Speed vs. Latitude
 - Southern Hemisphere: Wind Speed vs. Latitude
 
